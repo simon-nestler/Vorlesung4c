@@ -8,5 +8,23 @@ public class App {
 
         arr.addNumber(22);
         System.out.println(arr);
+
+        arr.addNumber(22);
+        System.out.println(arr);
+
+        arr.addNumber(24);
+        System.out.println(arr);
+
+        arr.addNumber(128);
+        System.out.println(arr);
+
+        arr.addNumber(32);
+        System.out.println(arr);
+
+        arr.addNumber(36);
+        System.out.println(arr);
+
+        arr.addNumber(42);
+        System.out.println(arr);
     }
 }
